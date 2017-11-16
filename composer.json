@@ -1,6 +1,6 @@
 {
-    "name": "spatie/laravel-googletagmanager",
-    "description": "Google Tag Manager integration for Laravel",
+    "name": "dev-simplify/graceframe-laravel-googletagmanager",
+    "description": "Google Tag Manager integration for Laravel customized for graceframe.com",
     "keywords": [
         "spatie",
         "laravel-googletagmanager",
